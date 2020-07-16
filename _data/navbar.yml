@@ -1,0 +1,12 @@
+- name: Home
+  link: /#header
+- name: Blog
+  link: /#blog
+- name: Porfolio
+  link: /#porfolio
+- name: Studio
+  link: /#studio
+- name: Shop
+  link: /#shop
+- name: Contact
+  link: #

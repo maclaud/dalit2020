@@ -2,3 +2,33 @@
 ---
 
 @import "main";
+@import "bootstrap/bootstrap";
+
+
+// header {
+//     padding: 156px 0 100px;
+//   }
+  
+  section {
+    padding: 150px 0;
+  }
+
+  .bd-example {
+    position: relative;
+    padding: 1rem; 
+    margin: 1rem -15px 0;
+    border: solid #f8f9fa;
+    border-width: .2rem 0 0;
+}
+.scrollspy-example {
+    position: relative;
+    height: 200px;
+    margin-top: .5rem;
+    overflow: auto;
+}
+a {
+    color: #6f6f6f;
+}
+a.nav-link.active {
+    background-color: #eeeeee !important;
+}
